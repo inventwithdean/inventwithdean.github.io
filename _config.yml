@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Dean Winchester"
   avatar : "/assets/images/swordsman.png"
-  bio    : "My name is Dean winchester and I hunt monsters."
+  bio    : "My name is Abhay Singh and I am a Unreal Engine Game programmer primarily focused on Multiplayer Networking and Optimizations!."
   links:
-    - label: "Website"
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/inventwithdean/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/inventwithdean"
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inventwithdean"
     - label: "Youtube"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@inventwithdean"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inventwithdean"
     - label: "Youtube"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@inventwithdean"
 
 defaults:

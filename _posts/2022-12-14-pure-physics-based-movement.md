@@ -1,8 +1,7 @@
 ---
 title: "Pure Physics Based movement in Unreal with C++!"
-date: 2022-12-14T13:05:00-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - Unreal
   - C++

@@ -1,5 +1,5 @@
 ---
-title: "Pure Physics Based movement in Unreal with C++!"
+title: "Pure Physics Based movement in Unreal with C++"
 categories:
   - Blog
 tags:

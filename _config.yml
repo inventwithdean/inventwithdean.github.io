@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Abhay Singh"
   avatar : "/assets/images/swordsman.png"
-  bio    : "I am an Unreal Engine Game programmer primarily focused on Multiplayer Networking and Optimizations!."
+  bio    : "I am an Unreal Engine Game programmer primarily focused on Multiplayer Networking and Optimizations."
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"

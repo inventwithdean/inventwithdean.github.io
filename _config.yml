@@ -16,8 +16,7 @@
 title: inventwithdean
 email: inventwithdean@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is just a personal blog to keep and share info about game development and unreal engine more specifically.
-twitter_username: inventwithdean
+  A personal blog to keep track of my projects!
 github_username: inventwithdean
 minimal_mistakes_skin: dark
 search: true
@@ -58,32 +57,20 @@ plugins:
 author:
   name   : "Abhay Singh"
   avatar : "/assets/images/swordsman.png"
-  bio    : "I am an Unreal Engine Game programmer primarily focused on Multiplayer Networking and Optimizations."
+  bio    : "I love training deep neural networks!"
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/inventwithdean/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/inventwithdean"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inventwithdean"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@inventwithdean"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/inventwithdean"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inventwithdean"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@inventwithdean"
 
 defaults:
   # _posts
